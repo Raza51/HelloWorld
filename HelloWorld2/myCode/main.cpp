@@ -24,6 +24,7 @@ int main (void)
     // TODO: Fügen Sie ab hier Ihren Programmcode ein
 	cout << "HelloWorld2 gestarted." << endl << endl;
 	cout << "Hello E.ON" << endl << endl;
+	cout << "Hello E.ON" << endl << endl;
 	return 0;
 
 }
